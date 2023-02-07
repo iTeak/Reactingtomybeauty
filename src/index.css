@@ -5,3 +5,12 @@
 body{
   background-color: #000300;
 }
+img {
+  border-radius: 50%;
+  border-bottom: 20%;
+  border:#00df9a;
+  border-style: solid;
+  padding-right: 30px;
+  box-shadow: #00df9a;
+  border-right-style: dashed;
+}

@@ -26,8 +26,8 @@ const Navbar=() => {
                 <ul className="uppercase p-4" >
                 <li className="p-4 border-b border-gray-600" >About</li>
                 <li className="p-4 border-b border-gray-600"> MYProjects</li>
-                <li className="p-4 border-b border-gray-600">yike</li>
-                <li className="p-4 border-b border-gray-600">Home</li>
+                <li className="p-4 border-b border-gray-600">HireMe</li>
+                <li className="p-4 border-b border-gray-600">ContactMe</li>
                 </ul>
             </div>
         </div>
